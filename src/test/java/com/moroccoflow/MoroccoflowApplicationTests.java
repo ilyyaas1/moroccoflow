@@ -1,4 +1,4 @@
-package org.services.moroccoflow;
+package com.moroccoflow;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

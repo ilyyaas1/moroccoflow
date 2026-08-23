@@ -1,4 +1,4 @@
-package org.services.moroccoflow;
+package com.moroccoflow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
