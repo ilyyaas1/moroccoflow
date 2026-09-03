@@ -24,10 +24,13 @@ management:
       exposure:
         include: health,info
 
-springdoc:
-  api-docs:
-    path: /api-docs
-  swagger-ui:
-    path: /swagger-ui.html
+moroccoflow:
+  congestion:
+    speed-weight: 0.6
+    occupancy-weight: 0.4
+    moderate-threshold: 0.30
+    high-threshold: 0.60
+    critical-threshold: 0.80
+
 
 

@@ -23,6 +23,6 @@ class MoroccoflowApplicationTests {
                         String.class)
                 .stream().collect(Collectors.toSet());
 
-        assertThat(tables).contains("cities", "roads", "intersections");
+        assertThat(tables).contains("cities", "roads", "intersections", "traffic_measurements");
     }
 }
